@@ -5,7 +5,22 @@ function LandingPage() {
   return (
     <>
       <Navbar />
+
       <Hero />
+
+      <TrustedCompanies />
+
+      <Features />
+
+      <Stats />
+
+      <Testimonials />
+
+      <FAQ />
+
+      <CTA />
+
+      <Footer />
     </>
   );
 }
